@@ -24,7 +24,7 @@ Exercice 5: ======
 	
 Exercice 6: ====== USING back tick
 	Ecrire un string sur plusieurs lignes qui contient des valeurs dynamique sans 
-	utiliser l'opération de concaténation;
+	utiliser l'opérateur de concaténation;
 	
 	Exemple : 
 	let paysArabe, poulation;
@@ -37,6 +37,7 @@ Exercice 6: ====== USING back tick
 Exercice 7: ====== LES BOUCLES FOR IN ET FOR OF
 	soit l'array const numbers = [45, 4, 9, 16, 25];
 	Afficher les valeurs en utilisant for in et for of
+	Et c'est quoi la différence entre les deux ?
 	
 Exercice 8: ====== Optional parameters
 	Ecrire une fonction addNumbers tel que les appels suivant soient possibles
