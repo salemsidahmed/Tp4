@@ -1,0 +1,14 @@
+Exercice 1: ===== flatten
+	Ecrire une fonction flatDeep(arr) qui permet de raméner une array à plusieurs dimension à 
+	une array à simple dimension
+	Exemple 
+		const arrDim = [1,2,[3, 4, [6, 7], 8, [9, 10]]]
+		console.log(flatDeep(arrDim)); // [1, 2, 3,  4, 6,7, 8, 9, 10]
+		
+Exercice 2: ====
+	Ecrire une fonction qui retourne les éléments communs entre 2 arrays
+	
+Exercice 3: ==== 
+	Ecrire une fonction getSumArrByKey(arr, key)
+	use reduce
+

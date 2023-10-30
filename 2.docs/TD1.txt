@@ -1,0 +1,62 @@
+Exercice 1: ===== USE VAR, LET AND CONST
+
+Exercice 2: ===== ARROW FUNCTIONS
+	Ecrire une fonction addNumbers(a, b) qui prend 2 nombres et retourne le resultat
+	Ecrire cette même fonction en utilisant arrow function syntaxe
+	
+Exercice 3: ====== ARGS USE
+	Ecrire une fonction qui reçoit un nombre d'arguments indeterminés
+	
+Exercice 4: ====== FALSY VALUES IN JS 
+	Quelles sont les valeurs falsy in js
+	
+Exercice 5: ====== 
+	Soit l'objet person
+	const person = {
+		firstName:"John",
+		lastName:"Doe",
+		age:50,eyeColor:"blue"
+	};
+	
+	donner deux méthodes pour accéder à la valeur de firstName
+	
+	ecrire une fonction getSumArrByKey(arr, key) qui calcul la somme d'un array by key
+	
+Exercice 6: ====== USING back tick
+	Ecrire un string sur plusieurs lignes qui contient des valeurs dynamique sans 
+	utiliser l'opération de concaténation;
+	
+	Exemple : 
+	let paysArabe, poulation;
+	
+	"Le paysArabe(prendre la valeur de la variable paysArabe) est un pays arabe avec une poulation de 
+	poulation (prendre la valeur de la variable poulation) "
+	
+	Tip : use back tick
+	
+Exercice 7: ====== LES BOUCLES FOR IN ET FOR OF
+	soit l'array const numbers = [45, 4, 9, 16, 25];
+	Afficher les valeurs en utilisant for in et for of
+	
+Exercice 8: ====== Optional parameters
+	Ecrire une fonction addNumbers tel que les appels suivant soient possibles
+	addNumbers();
+	addNumbers(10);
+	addNumbers(10, 8);
+	
+Exercice 9: ===== IIFE Immediately Invoked Function Execution
+	Ecrire une fonction IIFE qui add two numbers
+	
+Exercice 10: ===== CALLBACK
+	Ecrire une fonction qui reçoit un callback et l'exécute
+	
+Exercice 11: ===== PROMISES
+	Donner un exemple qui illustre l'utilisation des promises
+	Utiliser Promise.all
+	
+Exercice 12: ===== ASYNC/ AWAIT
+	Ecrire un code qui utilise async/ await 
+	
+ 
+	
+	
