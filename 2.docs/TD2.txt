@@ -11,7 +11,25 @@ Exercice 2: ====
 	const arr1 = [1, 2, 3, 4];
 	const arr2 = [7, 2, 3, 8];
 	getCommonsElements(arr1, arr2) // [2, 3]
+
 Exercice 3: ==== 
 	Ecrire une fonction getSumArrByKey(arr, key)
 	use reduce
+	Exemple :
+	const produits = [
+		{
+			nom : "Eau minérale",
+			prix: 100
+		},
+		{
+			nom : "Lait",
+			prix: 300
+		},
+		{
+			nom : "Tirma",
+			prix: 100
+		}
+	];
+
+	console.log(getSumArrByKey(produits, "prix")); //500
 
