@@ -5,7 +5,7 @@ if(true) {
 console.log(i);
 
 if(true) {
-    const j = 5;
+    const j = 6;
     j++;
 }
 console.log(j);
