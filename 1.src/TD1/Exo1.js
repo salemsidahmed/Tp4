@@ -5,7 +5,7 @@ if(true) {
 console.log(i);
 
 if(true) {
-    const j = 6;
+    const j = 88888888888;
     j++;
 }
 console.log(j);
